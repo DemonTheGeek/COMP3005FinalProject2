@@ -4,6 +4,7 @@ Damon Gee
 101230620
 
 Database name: 3005project2
+
 The DDL can be run all at once.
 The DML has to be run in three separate queries: the first five, then the sixth, then the seventh, due to the foreign key dependencies in the last two.
 
