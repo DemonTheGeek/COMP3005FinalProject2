@@ -3,6 +3,8 @@
 Damon Gee
 101230620
 
+Video link: https://youtu.be/GJ5GLH4T5cg
+
 Database name: 3005project2
 
 The DDL can be run all at once.
